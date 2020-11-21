@@ -24,5 +24,18 @@ body {
   min-height: calc(100vh - 100px);
   width: 720px;
   margin: auto;
+<<<<<<< HEAD
   max-width: 100%;
+=======
+}
+
+.section {
+  height: 450px;
+  width: 100%;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+>>>>>>> 8057ba5 (Added bottom html and style)
 }
