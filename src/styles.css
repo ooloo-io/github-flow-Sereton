@@ -24,6 +24,9 @@ body {
   min-height: calc(100vh - 100px);
   width: 720px;
   margin: auto;
+ content-container
+
+
   max-width: 100%; 
 }
 
@@ -35,4 +38,5 @@ body {
   justify-content: center;
   align-items: center;
   border: 1px solid black;
+
 }
